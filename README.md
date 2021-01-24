@@ -1,6 +1,7 @@
 # Marlin 2.0.7.2 - Anet A8 (Custom)
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
+
 Please see the [original repository](https://github.com/MarlinFirmware/Marlin/releases) for more information about Marlin.
 
 
